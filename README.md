@@ -36,6 +36,8 @@ Stick addressable LED strip to wall vertically above arduino.
 
 ALL WIRING IS IN WIRING DIAGRAM 
 
+![IMG_0820](https://user-images.githubusercontent.com/87161096/129452749-69f150a3-447e-4cea-a91a-392eba86c9fc.jpeg)
+
 
 -----------------------------CAVIATS------------------------------
 
@@ -45,5 +47,13 @@ To mitigate issue of over heating, install light bulb outlet in garage bulb, and
 When garage opens, power runs to arduino
 
 Distances can be changed in code
+
+
+
+
+
+![IMG_0823](https://user-images.githubusercontent.com/87161096/129452750-b3653085-d768-4e39-8192-c1beca50af21.jpeg)
+
+
 
 
