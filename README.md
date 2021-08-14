@@ -18,6 +18,11 @@ When the car is less then 30 CM from the sensor, all lights should be Red.
 
 -------------------------SETUP----------------------------------
 
+PARTS REQUIRED
+Arduino Uno R3
+Ultrasonic sensor (HC-SR04)
+Any addressable RGB light strip
+Jumper Wires
 
 Make sure to install arduino Adafruit_NeoPixel library using arduino IDE before running code
 
@@ -39,7 +44,7 @@ ALL WIRING IS IN WIRING DIAGRAM
 ![IMG_0820](https://user-images.githubusercontent.com/87161096/129452749-69f150a3-447e-4cea-a91a-392eba86c9fc.jpeg)
 
 
------------------------------CAVIATS------------------------------
+-----------------------------CAVEAT------------------------------
 
 DO NOT LEAVE THIS SYSTEM PLUGGED IN 24/7; ARDUINO HEATS UP WHILE OPERATING!!
 
