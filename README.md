@@ -44,7 +44,7 @@ ALL WIRING IS IN WIRING DIAGRAM
 ![IMG_0820](https://user-images.githubusercontent.com/87161096/129452749-69f150a3-447e-4cea-a91a-392eba86c9fc.jpeg)
 
 
------------------------------CAVEAT------------------------------
+-----------------------------CAVEATS------------------------------
 
 DO NOT LEAVE THIS SYSTEM PLUGGED IN 24/7; ARDUINO HEATS UP WHILE OPERATING!!
 
