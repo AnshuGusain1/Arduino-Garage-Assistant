@@ -4,9 +4,9 @@ Arduino Based Garage parking assistant
 
 -------------------------WHAT THIS IS---------------------------
 
-This is a garage parking assistant 
+This is a garage parking assistant. 
 
-While the car is outside of the garage(considered 200 CM again from sensor), the lights are all off
+While the car is outside of the garage(considered 200CM from sensor), the lights are all off.
 
 When the car is within 70 and 200 CM of the sensor, all the lights are Green.
 
@@ -19,6 +19,7 @@ When the car is less then 30 CM from the sensor, all lights should be Red.
 -------------------------SETUP----------------------------------
 
 PARTS REQUIRED
+
 Arduino Uno R3
 Ultrasonic sensor (HC-SR04)
 Any addressable RGB light strip
