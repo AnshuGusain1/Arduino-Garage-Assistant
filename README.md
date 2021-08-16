@@ -1,3 +1,4 @@
+
 # Arduino-Garage-Assistant
 Arduino Based Garage parking assistant 
 
@@ -25,22 +26,26 @@ Ultrasonic sensor (HC-SR04)
 Any addressable RGB light strip
 Jumper Wires
 
-Make sure to install arduino Adafruit_NeoPixel library using arduino IDE before running code
+Make sure to install arduino Adafruit_NeoPixel library using arduino IDE before running code.
 
-Before printing case, make sure to generate supports for the bottom arduino case. Supports not needed on lid
+Before printing case, make sure to generate supports for the bottom arduino case. Supports not needed on lid.
 
-Once printing is complete, drill holes into the outer 4 mounting points on the arduino case 
+Once printing is complete, drill holes into the outer 4 mounting points on the arduino case. 
 
-Drill the holes in the arduino mounting area in the case and screw the arduino in
+Drill the holes in the arduino mounting area in the case and screw the arduino in.
 
-Glue ultrasonic sensor (HC-SR04) upside down on the sensor mount above the arduino case
+Glue ultrasonic sensor (HC-SR04) upside down on the sensor mount above the arduino case.
 
 To mount Arduino to wall on garage, use 2-4 pins on the wall.
 
 Stick addressable LED strip to wall vertically above arduino.
 
 
-ALL WIRING IS IN WIRING DIAGRAM 
+ALL WIRING IS IN WIRING DIAGRAM.
+
+![Wiring](https://user-images.githubusercontent.com/87161096/129501390-6b0b5dd6-5ed9-4a49-9593-abe246ba3b72.png)
+
+
 
 ![IMG_0820](https://user-images.githubusercontent.com/87161096/129452749-69f150a3-447e-4cea-a91a-392eba86c9fc.jpeg)
 
@@ -50,11 +55,9 @@ ALL WIRING IS IN WIRING DIAGRAM
 DO NOT LEAVE THIS SYSTEM PLUGGED IN 24/7; ARDUINO HEATS UP WHILE OPERATING!!
 
 To mitigate issue of over heating, install light bulb outlet in garage bulb, and run the cable to arduino.
-When garage opens, power runs to arduino
+When garage opens, power runs to arduino.
 
-Distances can be changed in code
-
-
+Distances can be changed in code.
 
 
 
