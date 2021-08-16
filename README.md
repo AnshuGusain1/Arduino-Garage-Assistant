@@ -43,7 +43,7 @@ Stick addressable LED strip to wall vertically above arduino.
 
 ALL WIRING IS IN WIRING DIAGRAM.
 
-![Wiring](https://user-images.githubusercontent.com/87161096/129501390-6b0b5dd6-5ed9-4a49-9593-abe246ba3b72.png)
+<img width="586" alt="image" src="https://user-images.githubusercontent.com/87161096/129501590-6968e52e-5a19-4b0d-80a4-df6189916ff3.png">
 
 
 
