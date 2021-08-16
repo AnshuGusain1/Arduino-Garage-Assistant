@@ -64,5 +64,11 @@ Distances can be changed in code.
 ![IMG_0823](https://user-images.githubusercontent.com/87161096/129452750-b3653085-d768-4e39-8192-c1beca50af21.jpeg)
 
 
+---------------------------FUTURE IDEAS FOR THIS PROJECT------------
 
+In this final prototype, some issues are that it is hard to move the arduino and LED strip. 
+
+In the future, I hope to contain the entire system into 1 package that can be mounted onto a wall easily.
+
+To do this I could use an arduino micro, and a ring LED strip, which can be contained easily in a compact case. 
 
